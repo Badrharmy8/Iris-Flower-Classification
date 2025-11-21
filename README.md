@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification using SVM
+# 🌸 Iris Flower Classification 
 
 ## 📝 Project Overview
 This project focuses on classifying **Iris flowers** into three species:  
