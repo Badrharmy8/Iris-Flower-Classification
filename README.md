@@ -52,5 +52,4 @@ Using the classic **Iris dataset**, the project demonstrates a full **machine le
 
 ---
 
-## 📂 Project Structure
 
